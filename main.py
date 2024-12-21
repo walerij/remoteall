@@ -1,6 +1,3 @@
-#Анализ дисков
-
-
 import os
 
 top = "/mnt/e/python/t3/ra/GGG/"
